@@ -324,7 +324,7 @@ const AIRiskNewsMonitor = () => {
                 <Shield className="h-8 w-8" />
                 AI Risk News Monitor
               </h1>
-              <p className="text-sm opacity-70 mt-1">Real-time tracking for Meta Red Team</p>
+              <p className="text-sm opacity-70 mt-1">Created by Tarruck Wheeler - Stanford University</p>
             </div>
             
             <div className="flex items-center gap-2">
@@ -666,7 +666,7 @@ const AIRiskNewsMonitor = () => {
 
         {/* Footer */}
         <footer className="mt-8 pt-4 border-t text-center text-sm opacity-70">
-          <p>AI Risk News Monitor © 2025 | Protecting Meta's AI Safety</p>
+          <p>AI Risk News Monitor © 2025 | Developed by Tarruck Wheeler</p>
           <p className="mt-1">
             Real-time monitoring powered by embedded risk assessments
           </p>
