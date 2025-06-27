@@ -1,6 +1,6 @@
 # 🛡️ AI Risk News Monitor
 
-**Real-time news monitoring dashboard for Meta's Red Team**
+**Real-time news monitoring dashboard for Tarruck Wheeler's AI Safety Initiative**
 
 Track AI bias risks with color-coded alerts (🔴 Critical / 🟡 High / 🟢 Medium)
 
