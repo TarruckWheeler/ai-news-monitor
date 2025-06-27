@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Wheeler
+    given-names: Tarruck
+    email: tarruck@stanford.edu
+    affiliation: Stanford University
+title: "AI Risk News Monitor"
+version: 1.0.0
+date-released: 2025-06-27
+url: "https://github.com/TarruckWheeler/ai-news-monitor"
